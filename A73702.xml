@@ -1,0 +1,280 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A grant of the benevolence or contribution to His most excellent Majestie, by the clergie of the Province of Canterburie. In the Convocation or sacred synode holden at London. Anno Domini 1640.</title>
+            <author>Church of England. Province of Canterbury. Convocation.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1640</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73702</idno>
+            <idno type="STC">STC 4586</idno>
+            <idno type="STC">Thomason E203_3</idno>
+            <idno type="STC">ESTC R212819</idno>
+            <idno type="EEBO-CITATION">99871379</idno>
+            <idno type="PROQUEST">99871379</idno>
+            <idno type="VID">157688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73702)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 157688)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 36:E203[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A grant of the benevolence or contribution to His most excellent Majestie, by the clergie of the Province of Canterburie. In the Convocation or sacred synode holden at London. Anno Domini 1640.</title>
+                  <author>Church of England. Province of Canterbury. Convocation.</author>
+               </titleStmt>
+               <extent>[2], 26, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker, Printer to the Kings most excellent Majestie: and by the Assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1640.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In Latin.</note>
+                  <note>The first leaf is blank except for signature-mark "A" in a mortised ornament; the last leaf is blank.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Early works to 1800.</term>
+               <term>Church of England --  Benefices --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:157688:1"/>
+            <pb facs="tcp:157688:1" rendition="simple:additions"/>
+            <p>A GRANT OF THE BENEVOLENCE OR CONTRIBUTION To His moſt Excellent Majeſtie, by the Clergie of the Province of <hi>Canterburie.</hi>
+            </p>
+            <p>In the <hi>Convocation</hi> or <hi>Sacred Synode</hi> holden at <hi>London. Anno Domini</hi> 1640.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſtie: And by the Aſſignes of JOHN BILL. 1640.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:157688:2"/>
+            <pb n="1" facs="tcp:157688:2"/>
+            <head>
+               <g ref="char:leaf">❧</g> A Grant of the Benevolence or Contribution to His moſt Excellent Majeſtie, by the Clergie of the Province of <hi>Canterburie.</hi>
+            </head>
+            <head type="sub">In the <hi>Convocation</hi> or <hi>Sacred Synode</hi> holden at <hi>London. Anno Domini</hi> 1640.</head>
+            <p>
+               <seg rend="decorInit">A</seg>
+               <g ref="char:V">Ʋ</g>guſtiſsimo &amp; Sereniſsimo Do<g ref="char:EOLhyphen"/>mino noſtro. <hi>CAROLO,</hi> Dei gratiâ, Angliae, Scotiae, Franciae &amp; Hiberniae Regi, fidei defen<g ref="char:EOLhyphen"/>ſori, &amp;c. <hi>Guilielmus,</hi> pro<g ref="char:EOLhyphen"/>videntiâ divinâ Cant. Archiepiſcopus, totius An<g ref="char:EOLhyphen"/>gliae Primas &amp; Metropolitanus, propenſiſsimam ſubjectionem &amp; obedientiam, ac in eo qui eſt Rex Regum, &amp; dominus dominantium ſummam feli<g ref="char:EOLhyphen"/>citatem. Sereniſsimae veſtrae Majeſtati per publi<g ref="char:EOLhyphen"/>cum
+<pb n="2" facs="tcp:157688:3"/>hoc Inſtrumentum teſtatum facimus; Quod Praelati &amp; Clerus Provinciae noſtrae Cantuar. in Convocatione ſive ſacrâ Synodo Provinciali, auto<g ref="char:EOLhyphen"/>ritate Brevis veſtri Regii ad nos dati, in domo Ca<g ref="char:EOLhyphen"/>pitulari Eccleſiae Cathedralis Sancti <hi>Pauli Lon<g ref="char:EOLhyphen"/>don,</hi> decimo quarto die menſis Aprilis, Anno Dom. milleſimo ſexcenteſimo quadrageſimo (ex conti<g ref="char:EOLhyphen"/>nuatione &amp; prorogatione ejuſdem) inchoatâ &amp; celebratâ ac de die in diem uſque ad, &amp; in decimum ſextum diem inſtantis Maii, Anno praedict. ante meridiem etiam continuatâ in Eccleſia Collegiata beati <hi>Petri Weſtmonaſt.</hi> eodem decimo ſexto die praeſentis menſis legitimè congregati pro quibuſdam arduis &amp; urgentibus cauſis per nos ejuſdem Provinciae Clero propoſitis, ac inter eos ſedulò pen<g ref="char:EOLhyphen"/>ſitatis, quandam <hi>Benevolentiam</hi> ſive <hi>Contri<g ref="char:EOLhyphen"/>butionem,</hi> magnificentiae veſtrae Regiae, ſponta<g ref="char:EOLhyphen"/>neo unanimique conſenſu dederunt &amp; conceſſerunt, prout tenore hujus publici Inſtrumenti pleniùs liquet, Majeſtatem vestram ſuppliciter obnixèque rogantes, ut hanc eorum Conceſsionem benignè ac<g ref="char:EOLhyphen"/>cipere ac aequi bonique conſulere dignemini. Tenor verò praedictae Conceſsionis de verbo in verbum ſequitur, &amp; eſt talis.</p>
+            <pb n="3" facs="tcp:157688:3"/>
+            <p>
+               <seg rend="decorInit">M</seg>Oſt Excellent and moſt gracious Soveraign LORD, We your Majeſties faithfull Subjects, the Prelates and Clergie of the Province of <hi>Canterburie,</hi> being called together by autho<g ref="char:EOLhyphen"/>rity of Your Majeſties Writ, and at this pre<g ref="char:EOLhyphen"/>ſent being lawfully aſſembled in a Provin<g ref="char:EOLhyphen"/>ciall Synod or Convocation, well weighing and maturely conſidering with themſelves that great and bounden dutie, which by the rules of the Sacred Scripture they do owe to your gracious Majeſtie their Soveraign Lord, eſpecially for your conſtant defence of the Faith, and the protection of Chriſts holy Church amongſt us, by the maintenance of the happy government thereof, together with the continuance of the ſincere Preach<g ref="char:EOLhyphen"/>ing of the Goſpel. And moreover, as obe<g ref="char:EOLhyphen"/>dient Subjects, well weighing the ſingular care which Your Majeſtie hath, for the well guiding and governing of all that people which is by God committed to Your charge. And not forgetting thoſe great expences
+<pb n="4" facs="tcp:157688:4"/>whereat Your Majeſtie now is, and hereafter is more likely to be, as well for the Honour<g ref="char:EOLhyphen"/>able ſuſtentation of Your Royall eſtate at home, and the neceſſary defence of this Your Realm, as alſo for the effectuall furtherance of Your Majeſties moſt Royall and extraor<g ref="char:EOLhyphen"/>dinary deſignes abroad, have with one agree<g ref="char:EOLhyphen"/>ment and unanimous conſent given and granted, and by theſe preſents do give and grant to Your Majeſtie, Your Heirs and Suc<g ref="char:EOLhyphen"/>ceſſors, one Benevolence, or extraordinary Contribution of four ſhillings in the pound yeerly, during the ſpace of ſix yeers next en<g ref="char:EOLhyphen"/>ſuing the date hereof, by two ſeverall pay<g ref="char:EOLhyphen"/>ments in every of the ſaid ſix yeers, by even and equall portions in name and form as here followeth; That is to ſay, That every Archbiſhop, Biſhop, Deane, Archdeacon, Provoſt, Maſter of Colledge, Prebendary, Parſon, &amp; Vicar, and every other perſon and perſons, of whatſoever name or degree he or they be within the Province of <hi>Canterbury,</hi> having or enjoying any ſpiritual promotion, or other temporall poſſeſſion to the ſame ſpi<g ref="char:EOLhyphen"/>rituall promotion annexed, now not divided
+<pb n="5" facs="tcp:157688:4"/>nor ſeparated by act of Parliament or other<g ref="char:EOLhyphen"/>wiſe, from the poſſeſſion of the Clergie, ſhall pay to Your Majeſtie, Your Heirs and Succeſſours, for every pound that he may yeerly receive and diſpend by reaſon of the ſaid ſpirituall promotion, the ſum of four ſhillings yeerly for every of the ſaid ſix yeers. And for the true and certain value of all the promotions and every of them, whereof the payment of this Benevolence or Contribu<g ref="char:EOLhyphen"/>tion ſhall be made, the Rate, Taxation, Va<g ref="char:EOLhyphen"/>luation, and Eſtimation now remaining up<g ref="char:EOLhyphen"/>on Record in your Majeſties Court of Ex<g ref="char:EOLhyphen"/>chequer, for the payment of a perpetuall Diſme or Tenth granted unto King <hi>Henry</hi> the eight of worthy memory in the ſix and twentieth yeer of his Reign, concerning ſuch promotions as now be in the poſſeſſion of the Clergie, ſhall onely be followed and obſerved, without making any other Valua<g ref="char:EOLhyphen"/>tion, Rate, Taxation, or Eſtimation, then in the ſaid Record is compriſed.</p>
+            <p>Provided alwayes, that foraſmuch as the tenth part of the ſaid Rate and valuation is yeerly paid to Your Majeſtie for the ſaid per<g ref="char:EOLhyphen"/>petuall
+<pb n="6" facs="tcp:157688:5"/>Diſme or Tenth, ſo as there remain onely nine parts yeerly to the Incumbent cleer; This preſent Benevolence or Contri<g ref="char:EOLhyphen"/>bution of four ſhillings in the pound, ſhall be underſtood and meant onely of every full pound of the ſaid nine parts, and nothing for any other money not amounting to a full pound. And your Prelates and Clergie do alſo grant, that this preſent Benevolence or Contribution of four ſhillings of the full pound of the nine parts of the yeerly value of every ſpirituall promotion aforeſaid, with<g ref="char:EOLhyphen"/>in the ſaid Province taxed as aforeſaid, ſhalbe paid to Your Majeſtie, Your Heirs and Suc<g ref="char:EOLhyphen"/>ceſſours, in manner and form following; That is to ſay, The firſt payment of the ſaid Benevolence or Contribution in every of the ſaid ſix yeers next following, to be due upon the firſt day of November; And the ſecond payment to be due the firſt day of May, in every one of the ſaid ſix yeers, as afore is ſaid, to be delivered and paid to the Lord high Treaſurer or under Treaſurer of <hi>England,</hi> or to ſuch perſon or perſons as Your Majeſtie, Your Heirs and Succeſſours ſhall appoint
+<pb n="7" facs="tcp:157688:5"/>for receit thereof, to the uſe of Your Maje<g ref="char:EOLhyphen"/>ſtie, Your Heirs, and Succeſſours, according to the ſeverall times of payment above ſpe<g ref="char:EOLhyphen"/>cified, and at ſuch place and places as it ſhall pleaſe Your Majeſtie, Your Heirs, and Suc<g ref="char:EOLhyphen"/>ceſſours to appoint for the payment of the ſame, without any deduction, ſaving of ſix pence of every pound, for the Monition or Citation, Collection, and Portage, ſafe-con<g ref="char:EOLhyphen"/>veying and attendance in paying of the ſaid Benevolence or Contribution, and without any manner of charge of the Accomptant, ſaving three ſhillings four pence for the ge<g ref="char:EOLhyphen"/>nerall Acquittance for every one of the pay<g ref="char:EOLhyphen"/>ments of the ſaid Benevolence or Contri<g ref="char:EOLhyphen"/>bution.</p>
+            <p>Provided alwayes, that no perſon which at this preſent is, or hereafter ſhall be in com<g ref="char:EOLhyphen"/>poſition with Your Majeſtie, Your Heirs and Succeſſours, for the firſt-fruits of any Bene<g ref="char:EOLhyphen"/>fice or ſpirituall promotion, ſhall be con<g ref="char:EOLhyphen"/>tributory or charged for the ſame Benefice or promotion to Your Majeſtie, Your Heirs or Succeſſours, with any part of the ſaid Be<g ref="char:EOLhyphen"/>nevolence or Contribution during the firſt
+<pb n="8" facs="tcp:157688:6"/>yeer after the time of any ſuch compound<g ref="char:EOLhyphen"/>ing for his firſt-fruits.</p>
+            <p>Provided alſo, that all Deanes, Arch<g ref="char:EOLhyphen"/>deacons, Dignities, Maſters, Wardens, and Prebendaries of all Cathedrall and Colle<g ref="char:EOLhyphen"/>giate Churches and Colledges, or any of them within the ſaid Province, ſhall be char<g ref="char:EOLhyphen"/>ged with this Benevolence or Contribution for thoſe poſſeſſions, revenues, and promo<g ref="char:EOLhyphen"/>tions onely, which to their ſeverall promo<g ref="char:EOLhyphen"/>tions, dignities, and roomes are cleerly and diſtinctly limited, and to their onely uſe ſe<g ref="char:EOLhyphen"/>vered, thereof to pay (the tenth part being deducted) for every and each of the ſaid pay<g ref="char:EOLhyphen"/>ments, in manner and form as is above re<g ref="char:EOLhyphen"/>hearſed. And that all thoſe rents, poſſeſ<g ref="char:EOLhyphen"/>ſions, profits, portions, Hereditaments, and ſpirituall promotions, and every of them heretofore by Your Majeſtie, or any of the Kings or Queens of this Realm, or any other perſon or perſons whatſoever, given, grant<g ref="char:EOLhyphen"/>ed, bequeathed, deviſed, or impropria<g ref="char:EOLhyphen"/>ted unto the ſaid Cathedrall or Collegiate Churches or Colledges, or to any of them, which any wayes be aſſigned, imployed, or
+<pb n="9" facs="tcp:157688:6"/>uſed, either for or toward the yeerly mainte<g ref="char:EOLhyphen"/>nance of Readers of Divinitie, Schoole<g ref="char:EOLhyphen"/>maſters, Uſhers, Grammarians, Petti-canons, Conducts, Vicars-chorall, Singing-men, Choriſters, Vergers, Sextons, poor men, or of any other neceſſary or daily Officers or Miniſters in ſuch Cathedrall or Collegiate Churches or Colledges, or any of them, or for or towards the reedifying or repair<g ref="char:EOLhyphen"/>ing of any of the ſame Cathedrall or Col<g ref="char:EOLhyphen"/>legiate Churches or Colledges, ſhall not in any of the ſaid ſix yeers be charged with any part of this Benevolence or Contri<g ref="char:EOLhyphen"/>bution.</p>
+            <p>Provided alwayes, that every Parſon, Vicar, or other ſpirituall perſon paying any Penſion whereof no allowance is made in the valuation of his promotion or Benefice, ſhall and may retain to his own uſe and relief ſo much of every pound of every ſuch Pen<g ref="char:EOLhyphen"/>ſion for every payment of this Benevolence or Contribution as he ſtandeth charged by this Grant to pay for every part and payment of this Benevolence or Contribution, out of every pound for the whole valuation of his
+<pb n="10" facs="tcp:157688:7"/>ſpirituall promotion, any Covenant, Grant, or Bond to the contrary notwithſtanding.</p>
+            <p>Provided alſo, that this Benevolence or Contribution, or any part thereof, ſhall not be demanded or levied out of any Benefice, houſe of Students, or Colledge ſituate or ſet within either of the Univerſities of <hi>Oxford</hi> or <hi>Cambridge,</hi> or any Benefice, lands, or other Revenues, unto the ſaid Univerſities, or ei<g ref="char:EOLhyphen"/>ther of them, or to any houſe of Students, or Colledge in any of the ſaid Univerſities, united, appropriated, or appertaining, or out of any Benefice, lands, or Revenues of the Colledge of <hi>Windſore,</hi> or of the Colledge of <hi>Weſtminſter,</hi> or of the Colledge of <hi>Eaton</hi> neer <hi>Windſore,</hi> or of the Colledge called <hi>Saint Mary Colledge</hi> by <hi>Wincheſter,</hi> founded by <hi>Wil<g ref="char:EOLhyphen"/>liam Wickham,</hi> ſometime Biſhop of <hi>Wincheſter,</hi> or of any Hoſpitall, Almeſ-houſes, Gram<g ref="char:EOLhyphen"/>mar-Schools, or of any Church-Benefice, or other Revenues to the ſaid Colledges, Hoſ<g ref="char:EOLhyphen"/>pitals, Almeſ-houſes, or Grammar-Schools, or to any of them annexed, appropriated, or otherwiſe appertaining.</p>
+            <p>Provided alwayes, that all Parſons, Vi<g ref="char:EOLhyphen"/>cars,
+<pb n="11" facs="tcp:157688:7"/>and all other Eccleſiaſticall perſons, whoſe Benefices are not above ſix pounds thirteen ſhillings and four pence by the yeer, after the taxation aforeſaid, ſhall not be charged with this Benevolence or Contri<g ref="char:EOLhyphen"/>bution, or any part of the ſame.</p>
+            <p>Provided alſo, that every Vicar whoſe Be<g ref="char:EOLhyphen"/>nefice is eight pounds or above, and not above ten pounds by the yeer, according to the taxation aforeſaid, ſhall pay unto your Majeſtie, your Heirs and Succeſſours, ſix ſhillings and eight pence at every payment afore limitted, of the ſaid Benevolence or Contribution, at ſuch times and to ſuch per<g ref="char:EOLhyphen"/>ſons as is aforeſaid, for his part of the ſaid Benevolence or contribution: And if any Vicarage be under eight pounds, by the tax<g ref="char:EOLhyphen"/>ation aforeſaid, the Incumbent ſhall not be charged with any part or payment of the ſaid Benevolence or Contribution.</p>
+            <p>And we your ſaid Prelates and Clergy, moſt humbly beſeech your moſt excellent Majeſtie to take in good part our loving mindes and hearty good wills herein, and to accept of this ſmall gift of ours, though it
+<pb n="12" facs="tcp:157688:8"/>be nothing anſwerable to our good deſires, and yet according to the beſt of our poor abilities.</p>
+            <p>
+               <hi>IN quorum omnium &amp; ſingulorum praemiſſo<g ref="char:EOLhyphen"/>rum fidem &amp; testimonium, nos</hi> Guilielmus, <hi>providentia divina</hi> Cantuarienſis <hi>Archiepi<g ref="char:EOLhyphen"/>ſcopus antedictus, hoc praeſens publicum Inſtru<g ref="char:EOLhyphen"/>mentum ad humilem rogatum Praelatorum, &amp; Cleri noſtrae Cant. Provinciae praedictae, Sigilli noſtri Archiepiſcopalis appenſione, ac ſigno, no<g ref="char:EOLhyphen"/>mine &amp; ſubſcriptione</hi> Sacvilli Wade <hi>Notarii pub<g ref="char:EOLhyphen"/>lici, Deputati</hi> Willielmi Sherman <hi>Regiſtrarii no<g ref="char:EOLhyphen"/>ſtri principalis, juſsimus &amp; fecimus communiri. Datum in Eccleſia Collegiata divi Petri Weſt<g ref="char:EOLhyphen"/>monaſterienſis, dicto decimo ſexto die menſis Maii, Anno Domini milleſimo ſexcenteſimo quadrage<g ref="char:EOLhyphen"/>ſimo, Regnique veſtri feliciſſimi decimo ſexto; Et noſtrae Tranſlationis anno ſeptimo.</hi>
+            </p>
+            <p>
+               <hi>Et ego</hi> Sacvillus Wade, <hi>in Dioceſia Roffenſi natus, publicus ſupremâ Regiâ autoritate notari<g ref="char:EOLhyphen"/>us; Quia</hi> Benevolentiae <hi>ſive</hi> Contributionis <hi>praedictae conceſſioni ceteriſque praemiſſis omnibus &amp; ſingulis praenotatis, dum ſic (ut praemittitur) expediebantur &amp; fiebant, und cum praefato Reve<g ref="char:EOLhyphen"/>rendiſsimo
+<pb n="13" facs="tcp:157688:8"/>patre &amp; coeteris Patribus Cantuari<g ref="char:EOLhyphen"/>enſis Provinciae in eadem ſacra Synodo ſive Convocatione congregatis, praeſens perſonaliter interfui, eaque omnia ſic fieri geri &amp; expediri vi<g ref="char:EOLhyphen"/>di, ſcivi &amp; audivi, atque in notam ſumpſi. Ideo hoc praeſens publicum Inſtrumentum, tenorem con<g ref="char:EOLhyphen"/>ceſſionis</hi> Benevolentiae <hi>ſive</hi> Contributionis <hi>praedictae in ſe continens, manu alterius (me interim aliis impedito negotiis) fideliter ſcriptum exinde confeci, ſubſcripſi, &amp; publicavi: atque in hanc publicam &amp; authenticam formam redegi, ſignoque, nomine, cognomine &amp; ſubſcriptione meis ſolitis &amp; conſuetis, und cum appenſione Sigilli praefati Reverendiſsimi patris ſignavi in fidem &amp; teſtimonium omnium &amp; ſingulorum praemiſſorum juſſus, &amp; requiſitus.</hi>
+            </p>
+            <div type="part">
+               <pb n="14" facs="tcp:157688:9"/>
+               <head>
+                  <hi>Ordinationes</hi> ſive <hi>Canones</hi> Eccleſia<g ref="char:EOLhyphen"/>ſtici in Sacra Synodo praedicta, facti pro le<g ref="char:EOLhyphen"/>vatione &amp; collectione <hi>Benevolentiae</hi> ſive <hi>Contributionis</hi> voluntariae antedictae, una cum cenſuris &amp; poenis Eccleſiaſticis contra <hi>non ſolventes vel ſolvere recuſantes.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">O</seg>Rdinationes aliquot Synodales fa<g ref="char:EOLhyphen"/>ctae viceſimo primo die menſis Maii, Anno Domini milleſimo ſexcenteſimo quadrageſimo, per Reverendiſſimum in Chriſto Pa<g ref="char:EOLhyphen"/>trem &amp; dominum, Dominum <hi>Guilielmum</hi> Divina providentia <hi>Cant.</hi> Archiepiſcopum, totius <hi>Angliae</hi> Primatem &amp; Metropolitanum, alioſque Praelatos provinciae <hi>Cantuar,</hi> ſecum ſedentes, &amp; per reliquum Clerum inferiorem in ſacra Synodo infra Eccleſiam Colle<g ref="char:EOLhyphen"/>giatam Divi <hi>Petri Weſtmonaſter.</hi> pro collectione &amp; ſolutione cujuſdam Benevolentiae, ſeu vo<g ref="char:EOLhyphen"/>luntariae contributionis quatuor ſolidorum in qua<g ref="char:EOLhyphen"/>libet libra, ſereniſſimo Domino noſtro <hi>Carolo</hi> Dei gratia <hi>Angliae. Scotiae, Franciae,</hi> &amp; <hi>Hiberniae</hi> Regi,
+<pb n="15" facs="tcp:157688:9"/>fidei Defenſori, &amp;c. per eoſdem, Archiepiſcopum, Praelatos ac Clerum in dicta Synodo congregatos, decimo ſexto die menſis Maii praedicti, conceſſae.</p>
+               <p>
+                  <seg rend="decorInit">Q</seg>Uum Nos <hi>Guilielmus</hi> providentia Divina <hi>Cantuar.</hi> Archiepiſcopus, totius <hi>Angliae</hi> Primas &amp; Metro<g ref="char:EOLhyphen"/>politanus, Epiſcopi, Praelati, &amp; Clerus, &amp;c in ſacra Synodo pro<g ref="char:EOLhyphen"/>vinciali, ſive Praelatorum &amp; Cle<g ref="char:EOLhyphen"/>ri ejuſdem <hi>Cantuar.</hi> provinciae Convocatione in Eccleſia Cathedrali Divi <hi>Pauli Londini,</hi> decimo quarto die menſis Aprilis ultimò praeteriti inchoata &amp; celebrata, ac de tempore in tempus ex cauſis urgentibus ad Eccleſiam Collegia<g ref="char:EOLhyphen"/>tam Divi <hi>Petri Weſtmonaſter.</hi> ac ibidem de diebus in dies continuata, congregati: poſt multa ibidem per nos tractata, die Sabbathi decimo ſexto, <hi>viz.</hi> die menſis Maii ſupradicti, quandam benevolam Con<g ref="char:EOLhyphen"/>tributionem quatuor ſolidorum pro qualibet libra auguſtiſſimo &amp; potentiſſimo Regi &amp; Domino no<g ref="char:EOLhyphen"/>ſtro <hi>Carolo,</hi> &amp;c. conceſſerimus ex Beneficiis &amp; pro<g ref="char:EOLhyphen"/>ventibus noſtris Eccleſiaſticis colligendam &amp; levan<g ref="char:EOLhyphen"/>dam infra ſexennium proximum, perſolvendam ſin<g ref="char:EOLhyphen"/>gulis <hi>viz.</hi> annis durante illo ſexennio, modo, for<g ref="char:EOLhyphen"/>ma, diebus, ac ſub cautionibus &amp; conditionibus in quodam inſtrumento publico inde confecto, &amp; ſigil<g ref="char:EOLhyphen"/>lo Archiepiſcopali <hi>Cantuar.</hi> munito; Dat. dicto decimo ſexto die menſis Maii, pleniùs liquet.</p>
+               <p>Quumque idem Sereniſſimus Dominus noſter
+<pb n="16" facs="tcp:157688:10"/>Rex per literas ſuas patentes ſub magno ſigillo <hi>An<g ref="char:EOLhyphen"/>gliae,</hi> facultatem huic ſacrae Synodo conceſſerit, non modò Canones Eccleſiaſticos ordinandi, pro com<g ref="char:EOLhyphen"/>modiore Eccleſiae Anglicanae regimine, ſed etiam de alijs quibuſcunque rebus &amp; negotiis tractandi at<g ref="char:EOLhyphen"/>que decernendi per ipſum Dominum Regem eidem Synodo ſub ſignetto ſuo tranſmiſſis vel tranſmit<g ref="char:EOLhyphen"/>tendis; ſub quo ſignetto literis ſuae Majeſtatis datis viceſimo die inſtantis menſis Maii dictus ſereniſſi<g ref="char:EOLhyphen"/>mus Dominus Rex praecepit monuitque, ut ad Canones &amp; Synodales Ordinationes pro collecti<g ref="char:EOLhyphen"/>one &amp; levatione dictae Contributionis faciendos atque ordinandos procederemus.</p>
+               <p>Ut igitur ſupradicta noſtra Conceſſio faciliorem &amp; magis expeditum conſequi poſſit effectum, ut<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> omnes &amp; ſingulae pecuniarum ſummae per nos ſin<g ref="char:EOLhyphen"/>gulis dicti ſexennii annis conceſſae certiùs &amp; com<g ref="char:EOLhyphen"/>modiùs colligantur, ac terminis &amp; locis ſuis ad uſu<g ref="char:cmbAbbrStroke">̄</g> dicti Domini noſtri <hi>Caroli</hi> perſolvantur, Statuimus, ordinamus, &amp; volumus, quod dicta Contributio ab omnibus &amp; ſingulis perſonis Eccleſiaſticis <hi>Can<g ref="char:EOLhyphen"/>tuar.</hi> provinciae, quae vigore dictae Conceſsionis contribuere tenentur, per Collectores idoneos ad hoc, per ſuos Dioceſanos, ſeu ſede vacante, per De<g ref="char:EOLhyphen"/>canum &amp; Capitulum, ſingulis annis per dictum ſexennium deputandos modo &amp; forma ſubſequen<g ref="char:EOLhyphen"/>tibus levetur &amp; colligatur.</p>
+               <p>
+                  <hi>Item</hi> authoritate praeſentis Convocationis ſive Synodi ordinamus &amp; ſtatuimus, quòd ante pri<g ref="char:EOLhyphen"/>mum diem menſis Auguſti cujuſlibet anni qui in
+<pb n="17" facs="tcp:157688:10"/>dictum ſexennium incidet, Reverendiſſimus pater <hi>Cant.</hi> Archiepiſcopus, omneſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; ſinguli dictae <hi>Cant.</hi> provinciae Epiſ. Dioceſani &amp; (ſede Epiſco<g ref="char:EOLhyphen"/>pali vacante) Decanus &amp; Capitulum Collectores idoneos in omnibus locis exemptis, &amp; non exemp<g ref="char:EOLhyphen"/>tis, in ſingulis ſuis reſpective Dioceſibus, ad dictam contributionem &amp; quamlibet ejus partem, modo, forma, &amp; terminis infrà expreſſis debitè levandam &amp; colligendam juxta eorum arbitria, &amp; ſanas diſ<g ref="char:EOLhyphen"/>cretiones per Literas ſuas patentes ſigillis ſuis Epi<g ref="char:EOLhyphen"/>ſcopalibus, ſeu Capitularibus reſpective munitas, annuatim conſtituent, ordinabunt &amp; deputabunt, ac ipſos ſic deputatos, &amp; eorum quemlibet ſi fuerint Eccleſiaſtici, ad hujuſmodi Collectionis Officium ſuſcipiendum per cenſuras Eccleſiaſticas, <hi>viz.</hi> per ſuſpenſionis, interdicti, aut Excommunicationis ſententias, ac per ſequeſtrationem fructuum, &amp; proventuum Beneficiorum aut Dignitatum, ac alia Juris remedia, ſi hujuſmodi onus ſubire recuſave<g ref="char:EOLhyphen"/>rint, coerceant &amp; compellant. Quod ſi dictus Ar<g ref="char:EOLhyphen"/>chiepiſcopus, Epiſcopus aliquis, Dioceſanus, vel (ſede vacante) Decanus &amp; Capitulum laicam perſo<g ref="char:EOLhyphen"/>nam aliquam deputaverit, talis ſit iſtiuſmodi per<g ref="char:EOLhyphen"/>ſona laica, pro qua dicti Archiepiſcopus, Epiſcopus, aut Decanus &amp; Capitulum reſpondere tenebuntur. De quorum quidem collectorum nominibus ſingu<g ref="char:EOLhyphen"/>li Epiſcopi ſupradicti &amp; Decani &amp; Capitula Reve<g ref="char:EOLhyphen"/>rendiſſimum Patrem <hi>Cant.</hi> Archiepiſcopum ante primum diem menſis Septembris ſingulis dicti ſex<g ref="char:EOLhyphen"/>ennii annis debitè &amp; diſtinctè certificare teneantur.</p>
+               <pb n="18" facs="tcp:157688:11"/>
+               <p>
+                  <hi>Item,</hi> quòd Collectores hujuſmodi quolibet dicti ſexennij anno ſic conſtituti &amp; deputati, con<g ref="char:EOLhyphen"/>ſtituendi, vel deputandi hujus ſacri Conſilij autho<g ref="char:EOLhyphen"/>ritate plenam habeant poteſtatem omnes &amp; ſingu<g ref="char:EOLhyphen"/>los infra ſuae collectionis praecinctum hujuſmodi Contributionis ſolutione onerandos ante primum diem quorumlibet menſium Octobris &amp; Aprilis cu<g ref="char:EOLhyphen"/>juſlibet anni dicti ſexennij, vel perſonaliter, vel in valvis Eccleſiarum &amp; locorum pro quibus hanc Contributione<g ref="char:cmbAbbrStroke">̄</g> ſolvere tenentur, per Apparitorem, vel Apparitores, vel eorum deputatos in ſcriptis monendi, ut pecuniarum ſummas per eos ſolvendas ante primum diem menſium Novembris &amp; Maij tunc proximè ſequentium, per dictum ſexennium, in aliquo loco vel locis publicis, commodis &amp; uſi<g ref="char:EOLhyphen"/>tatis per dictos Dioceſanos, aut (ſede vacante) per dictos Decanos &amp; Capitula aſſignandis infra Col<g ref="char:EOLhyphen"/>lectionis ſuae limites plenè &amp; integrè ſolvant.</p>
+               <p>
+                  <hi>Item</hi> volumus, concedimus &amp; ordinamus, quòd quilibet collector, ſi Eccleſiaſtica fuerit perſona, ad hanc Contributionem vel aliquam ejus partem col<g ref="char:EOLhyphen"/>ligendam deputatus aut deputandus, omnes &amp; ſin<g ref="char:EOLhyphen"/>gulos huic Contributioni obnoxios, &amp; perſonaliter, vel in valvis Eccleſiarum ſive locorum pro quibus hanc contributionem ſolvere tenentur, ſufficienter monitos, &amp; comparere ad dies praeſtitutos &amp; aſſig<g ref="char:EOLhyphen"/>natos negligentes, vel non ſolventes, ſeu ſolvere re<g ref="char:EOLhyphen"/>cuſantes, aut ultra diem ſolutioni praefinitum diffe<g ref="char:EOLhyphen"/>rentes, per cenſuras Eccleſiaſticas, ſuſpenſionis, ex<g ref="char:EOLhyphen"/>communicationis, aut interdicti, vel per ſequeſtra<g ref="char:EOLhyphen"/>tionem
+<pb n="19" facs="tcp:157688:11"/>&amp; venditionem fructuum, ad plenam ſoluti<g ref="char:EOLhyphen"/>onem faciendam efficaciter compellendi &amp; coercen<g ref="char:EOLhyphen"/>di, ac etiam eoſdem plene &amp; integrè ſolventes, ſeu ſatisfacientes, a quibuſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> cenſuris, ſententijs &amp; poenis in ipſos &amp; eorum quemlibet in eâ parte pro<g ref="char:EOLhyphen"/>mulgatis &amp; inflictis abſolvendi, ac quemcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pro<g ref="char:EOLhyphen"/>ceſſum contra non comparentes aut non ſolventes, per eos factum, revocandi &amp; relaxandi authoritate praeſentis Convocationis ſufficientem habeat po<g ref="char:EOLhyphen"/>teſtatem. Quod ſi Epiſcopus aliquis, ſeu, ſede va<g ref="char:EOLhyphen"/>cante, Decanus &amp; Capitulum laicam aliquam per<g ref="char:EOLhyphen"/>ſonam ad hanc contributionem colligendam depu<g ref="char:EOLhyphen"/>taverit, Ordinamus &amp; ſtatuimus quòd ipſe Epiſco<g ref="char:EOLhyphen"/>pus, ſeu, ſede vacante, Decanus &amp; Capitulum di<g ref="char:EOLhyphen"/>ctas cenſuras &amp; poenas infligendi &amp; erogandi, eaſdem<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> relaxandi &amp; revocandi authoritate prae<g ref="char:EOLhyphen"/>fentis Synodi plenam habebunt poteſtatem.</p>
+               <p>
+                  <hi>Item</hi> volumus inſuper, &amp; praeſentis Convoca<g ref="char:EOLhyphen"/>tionis authoritate decernimus, quòd omnes &amp; ſin<g ref="char:EOLhyphen"/>guli collectores (ut praefertur) deputati vel depu<g ref="char:EOLhyphen"/>tandi omnes &amp; ſingulas pecuniarum ſummas col<g ref="char:EOLhyphen"/>lectas &amp; levatas, ſeu quas recipere potuerunt, &amp; neg<g ref="char:EOLhyphen"/>ligenter omiſerunt ante decimum quintum diem quorumlibet menſium Decembris &amp; Junij infra dictum ſexennium ſuis reſpective Epiſcopis, ſedi<g ref="char:EOLhyphen"/>bus plenis, &amp; Decanis &amp; Capitulis ſedium vacan<g ref="char:EOLhyphen"/>tium ſine aliquâ monitione in eâ parte eiſdem col<g ref="char:EOLhyphen"/>lectoribus fiendâ, ſub poena, ſi fuerint Eccleſiaſtici, ſuſpenſionis, excommunicationis aut interdicti, ac per ſequeſtrationem &amp; venditionem fructuum ſu<g ref="char:EOLhyphen"/>orum
+<pb n="20" facs="tcp:157688:12"/>beneficiorum, &amp; dignitatum, &amp; ſi opus fuerit, per deprivationem per eoſdem Epiſcopos, ſedi<g ref="char:EOLhyphen"/>bus plenis, vel per Decanum &amp; Capitulum, ſede vacante infligenda totaliter &amp; integrè ſolvent, ſeu ſolvi curabunt ab eiſdem Epiſcopis &amp; Decano &amp; Capitulo reſpectivè Quietancias idoneas pro ſum<g ref="char:EOLhyphen"/>mis hujuſmodi ſolutis recipientes.</p>
+               <p>Proviſo ſemper, quod quilibet Collector, eiſdem diebus quibus dictas ſummas, ita ut praefertur, col<g ref="char:EOLhyphen"/>lectas ſolvit, Dioceſanum ſuum Epiſcopum, ſede plenâ, &amp; Decanum &amp; Capitulum, ſede vacante, de nominibus ad dies praeſcriptos integrè non ſolven<g ref="char:EOLhyphen"/>tium in ſcriptis certiores faciet, &amp; per Juramen<g ref="char:EOLhyphen"/>tum ſuum fidem praeſtabit, quod ab illis ſummas debitas levare &amp; colligere non potuerit, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> poſſit, licêt diligentiam ſuam in eâ parte adhibuerit, ac contra non ſolventes modo &amp; forma praeſcriptis proceſſerit, in eo caſu volumus, quòd hujuſmodi Collector coram dicto ſuo Ordinario, ſede plenâ, vel Decano &amp; Capitulo, ſede vacante, ad fidem &amp; Juramentum ſuum praeſtandum in eâ parte admit<g ref="char:EOLhyphen"/>tatur. Et ſi nec auxilio &amp; authoritate Epiſcopi, ſede plenâ, vel Decani &amp; Capituli, ſede vacante, nec diligentiâ ſuâ per Juris remedia ſupraſcripta Collector hujuſmodi ante dictos dies <hi>viz.</hi> de<g ref="char:EOLhyphen"/>cimum quintum diem menſium Decemb. &amp; Junij cujuſlibet anni praedictorum ſexennorum ab hu<g ref="char:EOLhyphen"/>juſmodi recuſantibus, vel differentibus ſummas de<g ref="char:EOLhyphen"/>bitas integrè, vel pro parte recuperare non poſſit: volumus &amp; ordinamus, quod dictus collector, vel
+<pb n="21" facs="tcp:157688:12"/>totaliter vel pro eâ portione quam recipere non potuit, exoneretur, ac liber dimittatur &amp; acquie<g ref="char:EOLhyphen"/>tur. Et quod Epiſcopus (ſede plena) vel Decanus &amp; Capitulum (ſede vacante) reſpectivè per Jura<g ref="char:EOLhyphen"/>mentum collectoris ita certiorati, ad Reverendiſſi<g ref="char:EOLhyphen"/>mum Patrem <hi>Cant.</hi> Archiepiſcopum nomina om<g ref="char:EOLhyphen"/>hium non ſolventium, vel ſolvere differentium, ſub ſigillo ſuo authentico Epiſcopali vel capitulari, ante decimum quintum diem menſium Januarii, &amp; Ju<g ref="char:EOLhyphen"/>lii, ſingulis annis dicti ſexennii tranſmittet ſub pae<g ref="char:EOLhyphen"/>nâ ſequeſtrationis, ſuſpenſionis, vel privationis, ar<g ref="char:EOLhyphen"/>bitrio dicti Reverendiſſimi Patris cum concilio &amp; conſenſu trium aliorum hujus provinciae Epiſco<g ref="char:EOLhyphen"/>porum, per cundem Reverendiſſimum Patrem ad hoc nominandorum &amp; accerſendorum infligendae. Et quod tres Epiſcopi ita nominati, &amp; per lite<g ref="char:EOLhyphen"/>ras privatas, manu dicti Archiepiſcopi ſubſcriptas, acciti comparere &amp; eidem Archiepiſcopo aſſiſtere, per omnia Juris remedia per dictum Archiepiſco<g ref="char:EOLhyphen"/>pum, authoritate hujus Sacrae Synodi compelli poſ<g ref="char:EOLhyphen"/>ſint.</p>
+               <p>
+                  <hi>Item</hi> volumus, ordinamus, &amp; ſtatuimus quod di<g ref="char:EOLhyphen"/>ctus Reverendiſſimus Pater omnes &amp; ſingulos non ſolventes, vel ſolvere differentes, in dictis literis Cer<g ref="char:EOLhyphen"/>tificatoriis dicti Epiſcopi (ſede plena) vel Decani &amp; Capituli (ſede vacante) nominatos, vigore hujuſmo<g ref="char:EOLhyphen"/>di Certificatorii, abſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aliâ Citatione aut proba<g ref="char:EOLhyphen"/>tione, ab omnibus ſuis dignitatibus, Praebendis &amp; Beneficiis pro quibus ſummas debitas non ſolve<g ref="char:EOLhyphen"/>runt, privare &amp; amovere per ſententiam ſuam fina<g ref="char:EOLhyphen"/>lem,
+<pb n="22" facs="tcp:157688:13"/>&amp; definitivam, omni appellatione remotâ &amp; proamotis &amp; privatis decernendi, &amp; declarandi au<g ref="char:EOLhyphen"/>thoritate hujus ſacri Concilii provincialis plenam &amp; ſufficientem habeant poteſtatem &amp; authoritatem.</p>
+               <p>
+                  <hi>Item</hi> authoritate quâ ſupra, volumus, ordinamus, &amp; ſtatuimus quod omnes provinciae <hi>Cant.</hi> Epiſco<g ref="char:EOLhyphen"/>pi ſedibus plenis, &amp; Decani &amp; Capitula ſedium va<g ref="char:EOLhyphen"/>cantium ante d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cimum quintum diem menſium Fe<g ref="char:EOLhyphen"/>bruarii &amp; Auguſti ſingulis annis dictorum ſex an<g ref="char:EOLhyphen"/>norum omnes pecuniarum ſummas, tam per ipſos E<g ref="char:EOLhyphen"/>piſcopos reſpectu Epiſcopatuum, &amp; per Decanos &amp; Capitula intuitu Eccleſiarum Cathedralium ſedium vacantium, quam ab aliis quibuſcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> hujus Bene<g ref="char:EOLhyphen"/>nevolae contributionis ſolutione oneratis, levatas &amp; collectas cuicun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> aut quibu ſcunque per Sereniſ<g ref="char:EOLhyphen"/>ſimum Regem Dominum <hi>Carolum</hi> ad hoc aſſignan<g ref="char:EOLhyphen"/>do vel aſſignandis, ſub ſuſpenſionis, excommuni<g ref="char:EOLhyphen"/>cationis interdicti, fructuum ſequeſtrationis &amp; ven<g ref="char:EOLhyphen"/>ditionis, vel (ſi opus fuerit) privationis paenâ; per di<g ref="char:EOLhyphen"/>ctum Reverendiſſimum Archiepiſcopum cum con<g ref="char:EOLhyphen"/>ſilio, &amp; conſenſu trium Confratrum ſuorum hujus provinciae Epiſcoporum, tam contra dictos Epiſ<g ref="char:EOLhyphen"/>copos quam contra Eccleſ. Cathedrales &amp; ſingulas earundem perſonas hujus contributionis ſolutione oneratas infligenda, integrè ſolvent, vel ſolvi cura<g ref="char:EOLhyphen"/>bunt, &amp; dictum Archiepiſcopum de integrâ ſum<g ref="char:EOLhyphen"/>mâ ſolutâ &amp; de acquietantia quacun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> à receptore Regio vel receptoribus Regiis ſic aſſignando, vel aſſignandis ante viceſimum diem dictorum menſi<g ref="char:EOLhyphen"/>um Februarii, &amp; Auguſti authenticè unà cum no<g ref="char:EOLhyphen"/>minibus
+<pb n="23" facs="tcp:157688:13"/>illorum omnium denuo à quibus ſummas debitas colligere non potuerunt ſub poenis praedi<g ref="char:EOLhyphen"/>ctis, certificabunt, ſeu certificari curabunt, niſi fide dicto Reverendiſſimo Patri factâ, quod dictus Re<g ref="char:EOLhyphen"/>ceptor vel dicti Receptores ſummas ſolvendas per integrum quadriduum recipere diſtulerit vel diſtu<g ref="char:EOLhyphen"/>lerint, aut tales acquietantias tradere recuſaverit vel recuſaverint. Et quia res cum ſuo onere tran<g ref="char:EOLhyphen"/>ſite debet, ordinamus &amp; ſtatuimus, quod ſi contin<g ref="char:EOLhyphen"/>gat dignitatum &amp; Beneficiorum praedictorum poſ<g ref="char:EOLhyphen"/>ſeſſorem quemcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> dictâ contributione aut ali<g ref="char:EOLhyphen"/>quâ ejus parte non ſolutâ, ab hac luce migrare, re<g ref="char:EOLhyphen"/>ſignare, cedere, aut privari, quod tunc &amp; in eo caſu non ſolum Succeſſores in Dignitatibus vel Benefi<g ref="char:EOLhyphen"/>ciis, hujus Contributionis ſolutione oneratis per ſupra dicta omnia ſuperius in hiſce ordinationibus proviſa remedia pro ultimâ ſolutione anni ultimò clapſi ſolvere &amp; ſatisfacere compellantur, verum etiam quod Executores &amp; Adminiſtratores eorun<g ref="char:EOLhyphen"/>dem ſic decedentium (ſiopus fuerit) &amp; ipſimet reſi<g ref="char:EOLhyphen"/>gnantes, cedentes, &amp; deprivati, juxta ratam portio<g ref="char:EOLhyphen"/>nem fructuum quae ad manus ſuas eo anno pervene<g ref="char:EOLhyphen"/>rit, per omnia legitima Juris remedia ad hujuſmodi contributionem, &amp; quamlibet eiuſdem portionem ſolvendam compelli poſſint.</p>
+               <p>
+                  <hi>Item</hi> volumus, ſtatuimus &amp; ordinamus pro effi<g ref="char:EOLhyphen"/>caciori &amp; expeditiori hujus contributionis collecti<g ref="char:EOLhyphen"/>one, quod Epiſcopi dictae provinciae <hi>Cantuarienſis,</hi> ſede plena, &amp; Decanus &amp; Capitulum, ſede vacante, dignitatum &amp; beneficiorum illorum omnium qui
+<pb n="24" facs="tcp:157688:14"/>ab hac luce (eâdem contributione aut aliquâ ejus parte non ſolutâ) abierint, reſignaverint, ceſſerint vel amoti aut privati fuerint, quamdiu eorum Bene<g ref="char:EOLhyphen"/>ficia vacaverint per ſequeſtrationem &amp; venditio<g ref="char:EOLhyphen"/>nem fructuum &amp; emolumentorum talium dignita<g ref="char:EOLhyphen"/>tum, &amp; Beneficiorum ita vacantium integram con<g ref="char:EOLhyphen"/>tributionem vel quamcun<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ejus portionem non ſolutam levare &amp; colligere authoritate hujus Con<g ref="char:EOLhyphen"/>vocationis licitè valeant &amp; poſſint: quorum tamen conſcientias oneramus ut ſatisfactione ſequuta, quamprimum ſequeſtrationes ob hanc cauſam in<g ref="char:EOLhyphen"/>terpoſitas revocent, &amp; cum effectu relaxent.</p>
+               <p>Volumus etiam, &amp; authoritate hujus Synodi decernimus &amp; ordinamus, quod a cenſuris Eccle<g ref="char:EOLhyphen"/>ſiaſticis vel ſententiis &amp; decretis ſequeſtrationum quibuſcunque ſuprà proviſis, &amp; per Collectores, vel Epiſcopos ſedibus plenis, &amp; Decanum &amp; Capitulum ſedium vacantium pronunciatis &amp; promulgatis, nullus ſit appellationi vel recuſationi locus.</p>
+               <p>
+                  <hi>Item,</hi> volumus, ordinamus, &amp; ſtatuimus, quod nullus Collector praeſentis Contributionis recipiet pro aliquâ acquietantiâ fiendâ ultra quatuor denarios, nec pro cenſuris ullis, aut ſen<g ref="char:EOLhyphen"/>tentiis ſuſpenſionis, interdicti, vel ſequeſtra<g ref="char:EOLhyphen"/>tionis, &amp; abſolutione &amp; relaxatione eorundem aut corum cujuſvis ultra ſummam duorum ſolidorum: &amp; quod quilibet Collector infra praecinctum ſuae Collectionis authoritatem habeat compellendi ap<g ref="char:EOLhyphen"/>paritorem &amp; apparitores ordinarios ejuſdem prae<g ref="char:EOLhyphen"/>cinctus
+<pb n="25" facs="tcp:157688:14"/>ad monendos omnes &amp; ſingulos hujus Contributionis ſolutione oneratos, &amp; onerandos, quoties occaſio aut neceſſitas poſtulabunt, cui appparitori, ſeu apparitoribus concedimus unum denarium de ſingulis ſex denariis in Conceſſione noſtrâ Sereniſſimo Domino noſtro Regi factâ, re<g ref="char:EOLhyphen"/>ſervatis, pro citatione, monitione, collectione, &amp; ſolutione hujus Benevolentiae, ſeu extraordi<g ref="char:EOLhyphen"/>nariae Contributionis.</p>
+               <p>
+                  <hi>Item,</hi> hujus ſacrae Synodi authoritate volumus &amp; ordinamus, quod ſi in poſterum aliqua dubia, ambiguitates, difficultates, aut querelae circa has Ordinationes, vel aliquem earundem articulum, aut circa modum aut formam Collectionis hujus Contributionis oriantur: Tunc &amp; in co caſu o<g ref="char:EOLhyphen"/>mnium hujuſmodi dubiorum, ambiguitatum, diffi<g ref="char:EOLhyphen"/>cultatum, aut querelarum interpretationes &amp; de<g ref="char:EOLhyphen"/>clarationes fiant per Reverendiſſimum in Chriſto Patrem Archiepiſcopum <hi>Cantuar.</hi> Dominos E<g ref="char:EOLhyphen"/>piſcopos <hi>London. Winton. Sarum. Elien.</hi> &amp; <hi>Roffen.</hi> pro tempore exiſtente, aut duos eorundem, quorum idem Reverendiſſimus Pater ſit unus, cujus quidem Reverendiſſimi Patris interpretationi &amp; declaratio<g ref="char:EOLhyphen"/>ni, ut praefertur, fiendae, omnino ſtare &amp; acquieſci authoritate quâ ſuprà decernimus &amp; ordinamus.</p>
+               <p>
+                  <hi>Proviſo</hi> tamen ſemper, quod propter ſententi<g ref="char:EOLhyphen"/>am ſuſpenſionis in Curia Camerae ſtellatae jam<g ref="char:EOLhyphen"/>pridem latam contra Iohannem Epiſcopum <hi>Lin<g ref="char:EOLhyphen"/>coln.</hi> dicta ſedes <hi>Lincoln.</hi> quoad hanc rem pro ſede vacante reputabitur, adeòque totius circa prae<g ref="char:EOLhyphen"/>ſentem
+<pb n="26" facs="tcp:157688:15"/>conceſſionem negotii onus, omniſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ejuſdem exequendi, &amp; expediendi cura atque poteſtas, quan<g ref="char:EOLhyphen"/>tum ad omnes &amp; ſingulas clauſulas in ſupra re<g ref="char:EOLhyphen"/>citatis Canonibus comprehenſas, non in ipſum Epiſcopum, nec in Metropolitanum, ſed in Deca<g ref="char:EOLhyphen"/>num, atque Capitulum Eccleſiae <hi>Lincoln.</hi> vigore praeſentis decreti devolvetur durante dictâ ſuſpenſione ejuſdem Epiſcopi.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:157688:15"/>
+         </div>
+      </body>
+   </text>
+</TEI>
